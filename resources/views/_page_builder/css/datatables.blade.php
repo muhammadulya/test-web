@@ -1,0 +1,2 @@
+<link rel="stylesheet" type="text/css" href="{{ asset('/vendor/datatables/dataTables.bootstrap4.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('/vendor/datatables/responsive.bootstrap4.min.css') }}">
